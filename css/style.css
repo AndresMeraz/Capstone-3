@@ -1,3 +1,27 @@
 body {
-    background-color: gold;
+    background-color: gray;
+    font-family: Roboto;
+}
+.navbar {
+    background-color: red !important;
+}
+
+.navbar-brand {
+    height:auto;
+    width:50px;
+}
+#navbarLogo {
+    height: 100%;
+    width: 100%;
+    padding:0;
+    margin:0; 
+}
+
+.navIconDiv{
+    margin:0; 
+}
+
+main {
+    color: aqua;
+    margin: 10%;
 }
